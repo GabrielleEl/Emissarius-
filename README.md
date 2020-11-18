@@ -133,7 +133,7 @@ function registerDigIdentity(string memory _name, string memory _birthDate, stri
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Any contributions from the open source community is **highly appreciated**.
+Any contributions from the open source community are **highly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
