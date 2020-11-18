@@ -103,7 +103,7 @@ ganache-cli
 5. On external node request, see Web3 provider endpoint (127.0.0.1.8545) select "ok" 
 
 6. Deploy and or publish to IPFS 
-	* the contract does deploy and is able to be uploaded to Etherscan/verifyContract but it cannot be found on Etherscan which is curious. Possible error could have been in adding the library addresses that are needed to publish since I used several libraries. 
+	* The contract does deploy and is able to be uploaded to Etherscan/verifyContract but it cannot be found on Etherscan which is curious. Possible error could have been in adding the library addresses that are needed to publish since I used several libraries. 
 
 
 
